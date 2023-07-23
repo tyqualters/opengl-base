@@ -17,7 +17,7 @@ This base was based off of The Cherno's OpenGL series.
 
 When developing with this base, keep in mind that you may want to modify shaders.hh to allow for more shaders than only 1 vertex and 1 fragment shader. You may also want the ability to parse shaders in a single file.
 
-These files were pulled from another project of mine, and reflect as such. No additional modifications were made other than what was necessary to work in this environment.
+These files were pulled from another project of mine, and reflect as such. No additional modifications were made other than what was necessary to work in this environment OTHER THAN the OpenGL version which may affect some OpenGL features and compatibility on your system.
 
 The "Cube" class is meant to be an example. You probably should make your own objects a bit more dynamic and modular.
 
