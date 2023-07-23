@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.pkg": "ini",
+        "*.ihtml": "html",
+        "*.old": "plaintext",
+        "vector": "cpp"
+    }
+}
